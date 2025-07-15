@@ -40,7 +40,7 @@ Each project includes code, datasets, and a brief report or notebook. Click on a
 
 ## How to Explore
 
-- Click any project name above to open its folder and code on GitHub.
+- Click any project folder above to open its folder and code on GitHub.
 - Each project contains its own README or notebook with more details.
 
 ---
