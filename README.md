@@ -49,5 +49,5 @@ Each project includes code, datasets, and a brief report or notebook. Click on a
 
 This portfolio showcases a variety of **real-world data science techniques**, including data cleaning, feature engineering, machine learning, EDA, NLP, and reporting.
 
-Questions? Connect with me via [GitHub Issues](https://github.com/YOURUSERNAME/data-science-portfolio/issues).
+
 
